@@ -9,5 +9,7 @@ public class App {
         System.out.println("Kawalek kodu w nowym branchu");
 
         System.out.println("kolejan zmiana eksperymentalna");
+
+        System.out.println("cos jeszcze");
     }
 }
