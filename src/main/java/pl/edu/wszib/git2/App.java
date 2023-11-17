@@ -5,5 +5,7 @@ public class App {
         System.out.println("zmiana");
 
         System.out.println("kolejna zmaina");
+
+        System.out.println("Kawalek kodu w nowym branchu");
     }
 }
