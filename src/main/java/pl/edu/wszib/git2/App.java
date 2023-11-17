@@ -13,5 +13,7 @@ public class App {
         System.out.println("cos jeszcze");
 
         System.out.println("zmiana w master !!!");
+
+        System.out.println("inna zmiana w app !!!");
     }
 }
