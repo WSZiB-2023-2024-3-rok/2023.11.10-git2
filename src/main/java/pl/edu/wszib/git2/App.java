@@ -11,5 +11,7 @@ public class App {
         System.out.println("kolejan zmiana eksperymentalna");
 
         System.out.println("cos jeszcze");
+
+        System.out.println("zmiana w master !!!");
     }
 }
